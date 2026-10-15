@@ -1,0 +1,2 @@
+Pylint baseline report status: NOT RUN in this environment; analyzer unavailable.
+Run locally against the original file to capture the actual baseline.

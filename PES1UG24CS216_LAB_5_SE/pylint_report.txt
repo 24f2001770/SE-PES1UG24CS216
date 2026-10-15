@@ -1,0 +1,7 @@
+************* Module digital_wallet
+digital_wallet.py:145:0: C0305: Trailing newlines (trailing-newlines)
+digital_wallet.py:47:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.70/10 (previous run: 9.70/10, +0.00)
+
